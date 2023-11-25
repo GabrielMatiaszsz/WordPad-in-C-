@@ -1,0 +1,14 @@
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe.config
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.exe
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\bin\Debug\BlocoDeNotas.pdb
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.AssemblyReference.cache
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Form1.resources
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Properties.Resources.resources
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.exe
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.pdb
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Substituir.resources
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Localizar.resources
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.AberturaImagem.resources
+C:\Users\Gabriel Matias\Desktop\NotasBloco\BlocoDeNotas\BlocoDeNotas\obj\Debug\BlocoDeNotas.Imagem.resources
